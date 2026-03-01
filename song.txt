@@ -8,5 +8,9 @@ Shield by shield
 
 First try
 Gggg
+<<<<<<< HEAD
 Dddd
 Vvvv
+=======
+Dddd
+>>>>>>> feature
